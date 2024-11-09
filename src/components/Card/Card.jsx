@@ -1,3 +1,6 @@
+import './Card.css'
+
+
 export default function Card() {
   return <div className='card'>
     <h1>Java</h1>
